@@ -1,7 +1,6 @@
-### Hello guys.
-
 <img align="right" width="400" height="300" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png?compress=1&resize=400x300">
 
+## Hello guys.
 
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 Currently learning React and NodeJS.
