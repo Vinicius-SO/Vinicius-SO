@@ -1,7 +1,7 @@
 
 <!-- Sua mensagem de boas-vindas ou saudação -->
 
-Bem-vindo ao meu perfil GitHub! 👋
+# Bem-vindo ao meu perfil GitHub! 👋
 
  _   _      _ _
 | | | |    | | |
@@ -23,7 +23,21 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-Alguns dos meus principais interesses incluem:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+          
+          
+          
+
+## Alguns dos meus principais interesses incluem:
 
 - Desenvolvimento Web
 - Aprendizado de Máquina e Inteligência Artificial
