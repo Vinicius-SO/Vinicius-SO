@@ -3,6 +3,16 @@
 
 Bem-vindo ao meu perfil GitHub! 👋
 
+ _   _      _ _
+| | | |    | | |
+| |_| | ___| | | ___   
+|  _  |/ _ \ | |/ _ \ 
+| | | |  __/ | | (_) |
+|_| |_|\___|_|_|\___/ 
+
+
+
+
 <!-- Sua descrição pessoal ou profissional -->
 
 Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Meu objetivo é criar soluções inovadoras e impactantes para problemas do mundo real.
@@ -22,30 +32,27 @@ Alguns dos meus principais interesses incluem:
 Você pode me encontrar em outras plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/seu-nome/)
-- [Twitter](https://twitter.com/seu-nome/)
 - [Website](https://www.seusite.com/)
 
 <!-- Seu status GitHub (opcional) -->
 
-[![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)](https://github.com/seu-nome)
+[!Vinicius-SO](https://github-readme-stats.vercel.app/api?username=Vinicius-SO&show_icons=true&theme=dark)](https://github.com/Vinicius-SO)
 
 <!-- Seu repositório destacado (opcional) -->
 
 ## Meus Projetos Destacados
 
 [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
+[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
 
 <!-- Seu resumo ou estatísticas do GitHub (opcional) -->
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vinicius-SO&show_icons=true&theme=dark)
 
 <!-- Seus repositórios populares (opcional) -->
 
-## Repositórios Populares
-
-[![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=repositorio-1&theme=dark)](https://github.com/seu-nome/repositorio-1)
-
-[![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=repositorio-2&theme=dark)](https://github.com/seu-nome/repositorio-2)
 
 <!-- Sua mensagem de encerramento -->
 
