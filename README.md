@@ -22,9 +22,9 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 ## Alguns dos meus principais interesses incluem:
 
 - Desenvolvimento Web
-- Aprendizado de Máquina e Inteligência Artificial
-- Open Source
-- Design de Interfaces
+- Fullstack com react e nodejs
+- Design figma
+- Ia com a api da Open Ai
 - e muito mais...
 
 <!-- Seus contatos e redes sociais -->
@@ -38,20 +38,6 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 
 [!Vinicius-SO](https://github-readme-stats.vercel.app/api?username=Vinicius-SO&show_icons=true&theme=dark)](https://github.com/Vinicius-SO)
 
-<!-- Seu repositório destacado (opcional) -->
-
-## Meus Projetos Destacados
-
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=seu-nome&repo=nome-do-projeto&theme=dark)](https://github.com/seu-nome/nome-do-projeto)
-
-<!-- Seu resumo ou estatísticas do GitHub (opcional) -->
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vinicius-SO&show_icons=true&theme=dark)
-
-<!-- Seus repositórios populares (opcional) -->
 
 
 <!-- Sua mensagem de encerramento -->
