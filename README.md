@@ -31,8 +31,8 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 
 ## Você pode me encontrar em outras plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-nome/)
-- [Website](https://www.seusite.com/)
+- [LinkedIn](https://www.linkedin.com/in/viniciuss-so/)
+- [Website](https://vinicius-so-portifolio.netlify.app/)
 
 <!-- Seu status GitHub (opcional) -->
 
