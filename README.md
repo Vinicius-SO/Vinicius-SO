@@ -35,8 +35,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 - [Website](https://vinicius-so-portifolio.netlify.app/)
 
 <!-- Seu status GitHub (opcional) -->
-
-[!Vinicius-SO](https://github-readme-stats.vercel.app/api?username=Vinicius-SO&show_icons=true&theme=dark)](https://github.com/Vinicius-SO)
+- [!Vinicius-SO](https://github-readme-stats.vercel.app/api?username=Vinicius-SO&show_icons=true&theme=dark)](https://github.com/Vinicius-SO)
 
 
 
