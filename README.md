@@ -8,7 +8,6 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Meu objetivo é criar soluções inovadoras e impactantes para problemas do mundo real.
 
-<!-- Seus principais interesses ou tecnologias favoritas -->
 
 ## Ferramentas e Tecnologias
 
